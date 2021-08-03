@@ -1,2 +1,4 @@
 # App Repositories
- Aplicativo android para apresentar os portfólios do GitHub.
+ Aplicativo Android para apresentar os portfólios do GitHub.
+
+ Reprodução do aplicativo da aula.
