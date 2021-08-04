@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 81223601,
+      "name": "calculadora",
+      "owner": {
+        "login": "celinatakeda",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82118386?s=400&v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/celinatakeda/calculadora",
+      "description": "Simula uma calculadora."
+    },
+    {
+      "id": 178429138,
+      "name": "calculadora-IMC",
+      "owner": {
+        "login": "celinatakeda",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82118386?s=400&v=4"
+      },
+      "html_url": "https://github.com/celinatakeda/calculadora-IMC",
+      "description": "Aplicativo que calcula o IMC.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 183915325,
+      "name": "Polimorfismo-e-herança",
+      "owner": {
+        "login": "celinatakeda",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82118386?s=400&v=4"
+      },
+      "html_url": "https://github.com/celinatakeda/Polimorfismo-e-heranca",
+      "description": "Exercitando o polimorfismo e herança.",
+      "stargazers_count": 1,
+      "language": "Java"
+    },
+    {
+      "id": 378749135,
+      "name": "Matrizes",
+      "owner": {
+        "login": "celinatakeda",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82118386?s=400&v=4"
+      },
+      "html_url": "https://github.com/celinatakeda/Matrizes",
+      "description": "Matrizes unidimensional e multidimensional.",
+      "stargazers_count": 2,
+      "language": "Java"
+    },
+    {
+      "id": 63367755,
+      "name": "Verifiacador-de-idade",
+      "owner": {
+        "login": "celinatakeda",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82118386?s=400&v=4"
+      },
+      "html_url": "https://github.com/celinatakeda/Verificador-de-idade",
+      "description": "Site que calcula a idade de uma pessoa.",
+      "stargazers_count": 3,
+      "language": "JavaScript"
+    },
+    {
+      "id": 63448974,
+      "name": "Calcular imposto funcionários",
+      "owner": {
+        "login": "celinatakeda",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82118386?s=400&v=4"
+      },
+      "html_url": "https://github.com/celinatakeda/calcular-imposto-salario",
+      "description": "Exercício que calcula o imposto do salário dos funcionários de acordo com o seu cargo.",
+      "stargazers_count": 7,
+      "language": "Java"
+    },
+    {
+      "id": 263680765,
+      "name": "Hora-do-dia",
+      "owner": {
+        "login": "celinatakeda",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82118386?s=400&v=4"
+      },
+      "html_url": "https://github.com/celinatakeda/Hora-do-dia",
+      "description": "Site que mostra a hora dia.",
+      "stargazers_count": 1,
+      "language": "JavaScript"
+    },
+    {
+      "id": 183948239,
+      "name": "Arco-íris",
+      "owner": {
+        "login": "celinatakeda",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82118386?s=400&v=4"
+      },
+      "html_url": "https://github.com/celinatakeda/Exercicio-de-Set",
+      "description": "Exercício para criar um conjunto de cores do arco-íris.",
+      "stargazers_count": 2,
+      "language": "Java"
+    },
+    {
+      "id": 265040807,
+      "name": "CameraXApp",
+      "owner": {
+        "login": "celinatakeda",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82118386?s=400&v=4"
+      },
+      "html_url": "https://github.com/celinatakeda/CameraXApp",
+      "description": "Analisa e efetua o code lab oficial google para o recurso de câmera disponível no android The CameraX.",
+      "stargazers_count": 5,
+      "language": "Kotlin"
+    },
+    {
+      "id": 369822554,
+      "name": "lancamentoDados",
+      "owner": {
+        "login": "celinatakeda",
+        "avatar_url": "https://avatars.githubusercontent.com/u/82118386?s=400&v=4"
+      },
+      "html_url": "https://github.com/celinatakeda/Exercicio-de-Map/blob/main/lancamentoDados.java",
+      "description": "Programa que simula o lançamento de dados.",
+      "stargazers_count": 1,
+      "language": "Java"
+    }
+  ]
+}
